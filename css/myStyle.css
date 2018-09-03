@@ -6,3 +6,17 @@ font-size:20px;
 border-color:#000;
 border:thick;
 }
+
+.img{
+height: 300px;	
+}
+
+.customdiv_main{
+text-align: center;
+background-color:rgba(127,219,112,0.61);
+padding:18px;
+font-size:20px;
+border-color:#000;
+border:thick;
+height:200px;	
+}
